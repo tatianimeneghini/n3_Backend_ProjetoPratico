@@ -1,0 +1,26 @@
+{
+  "name": "semana7",
+  "version": "1.0.0",
+  "description": "Projeto Prático desenvolvido em API na 7ª semana do Bootcamp Backend da {reprograma} :computer:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./server.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatianimeneghini/n3_Backend_ProjetoPratico.git"
+  },
+  "author": "Tatiani Meneghini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatianimeneghini/n3_Backend_ProjetoPratico/issues"
+  },
+  "homepage": "https://github.com/tatianimeneghini/n3_Backend_ProjetoPratico#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
