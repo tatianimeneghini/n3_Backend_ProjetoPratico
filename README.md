@@ -8,9 +8,9 @@ Exibir via API uma lista de tarefas com rotas para lista por ID, nome colaborado
 ####Tecnologias usadas
 Para desenvolver o projeto utilizei a tecnologia Node.js. O download do Node é feito neste [link](https://nodejs.org/en/). A instalação é feita pelo procedimento padrão de instalação (next => next => ok). Para o download dos pacotes, utilizei o npm, porém você pode usar o gerenciador de pacotes de sua preferência.
 
-####Instalação
+###Instalação
 Para clonar este repositório você deverá acessar o git bash (Windows) ou terminal (Linux, MAC) e digitar o seguinte comando:
-- git clone https://github.com/anabnovaes/n3-backend-projeto-pratico.git 
+- [git clone] (https://github.com/tatianimeneghini/n3_Backend_ProjetoPratico.git)
 Após clonar o repositório e acessar o novo diretório criado, você deverá iniciar o node pelo comando (caso utilize o NPM):
 - npm install 
 Se você está utilizando outro gerenciador de pacotes apenas altere o npm para seu respectivo instalador.
