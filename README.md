@@ -10,7 +10,7 @@ Para desenvolver o projeto utilizei a tecnologia Node.js. O download do Node é 
 
 ###Instalação
 Para clonar este repositório você deverá acessar o git bash (Windows) ou terminal (Linux, MAC) e digitar o seguinte comando:
-- [git clone] (https://github.com/tatianimeneghini/n3_Backend_ProjetoPratico.git)
+- [git clone](https://github.com/tatianimeneghini/n3_Backend_ProjetoPratico.git)
 Após clonar o repositório e acessar o novo diretório criado, você deverá iniciar o node pelo comando (caso utilize o NPM):
 - npm install 
 Se você está utilizando outro gerenciador de pacotes apenas altere o npm para seu respectivo instalador.
